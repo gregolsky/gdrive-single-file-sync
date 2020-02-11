@@ -1,0 +1,19 @@
+{
+  "name": "gdrive-single-file-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grzegorz Lachowski",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "semistandard": "^14.2.0"
+  }
+}
