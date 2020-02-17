@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+require('../lib/gdrive-single-file-sync')()
+.catch(err => {
+    console.error(err);
+});
